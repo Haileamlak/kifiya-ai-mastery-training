@@ -2,6 +2,8 @@ name: CI
 
 on:
   push:
+    paths:
+      - "week0_solar_challenge/**"
     branches: [ main, setup-task ]
   pull_request:
     branches: [ main ]
