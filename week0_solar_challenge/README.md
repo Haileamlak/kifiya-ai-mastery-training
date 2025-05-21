@@ -105,12 +105,3 @@ Benin was found to have the highest solar potential on average. The use of Strea
 This project laid a solid foundation in practical data engineering and analytics for the AI Mastery track. It not only developed technical confidence but also simulated a real-world business impact use case.
 
 ---
-
-## 🖼️ Visuals
-
-**[Include screenshots here in your final document]**
-- Summary statistics table
-- Boxplots for GHI
-- Streamlit dashboard interface
-
----
